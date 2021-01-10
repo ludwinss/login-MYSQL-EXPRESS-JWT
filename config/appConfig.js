@@ -1,0 +1,9 @@
+module.exports={
+  db:{
+    host:'localhost',
+    user:'ludwinss',
+    password:'ludwinss',
+    database:'custom'
+  },
+  jwtSecret:'choquita'
+};
